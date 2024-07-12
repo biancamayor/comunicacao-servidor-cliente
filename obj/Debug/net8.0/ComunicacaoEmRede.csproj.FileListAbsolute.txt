@@ -1,0 +1,15 @@
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\bin\Debug\net8.0\ComunicacaoEmRede.exe
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\bin\Debug\net8.0\ComunicacaoEmRede.deps.json
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\bin\Debug\net8.0\ComunicacaoEmRede.runtimeconfig.json
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\bin\Debug\net8.0\ComunicacaoEmRede.dll
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\bin\Debug\net8.0\ComunicacaoEmRede.pdb
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.AssemblyInfoInputs.cache
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.AssemblyInfo.cs
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.csproj.CoreCompileInputs.cache
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.sourcelink.json
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.dll
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\refint\ComunicacaoEmRede.dll
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.pdb
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ComunicacaoEmRede.genruntimeconfig.cache
+c:\Users\bianc\Documents\trabalhos-faculdade\comunicacaoEmRede\obj\Debug\net8.0\ref\ComunicacaoEmRede.dll
